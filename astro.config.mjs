@@ -7,4 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  site: 'https://hienglyhor.github.io',
+  base: '/portfolio',
 });
