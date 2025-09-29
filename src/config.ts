@@ -8,6 +8,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/lyhor-hieng/",
     twitter: "https://x.com/hieng_lyhor",
     github: "https://github.com/HiengLyhor",
+    telegram: "https://t.me/Lyhor_Hieng",
   },
   aboutMe:
     "Backend developer specializing in .NET, Spring Boot, Dynamics 365, and SQL. Experienced in designing reliable APIs, automating workflows, and optimizing database performance to support business growth.",

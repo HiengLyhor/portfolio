@@ -45,6 +45,28 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
             </svg>
           </a>
           <a
+            href={`${siteConfig.social.telegram}`}
+            aria-label="Telegram"
+            class="text-gray-600 transition-colors duration-300 hover:text-[var(--accent-color)]"
+            style={`--accent-color: ${siteConfig.accentColor}`}
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="h-6 w-6"
+            >
+              <path d="M22 2L11 13"></path>
+              <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+            </svg>
+          </a>
+          <a
             href={siteConfig.social.linkedin}
             target="_blank"
             rel="noopener noreferrer"
