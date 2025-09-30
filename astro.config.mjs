@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://hienglyhor.github.io',
-  base: '/portfolio',
+  base: '/',
 });
