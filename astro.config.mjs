@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://lyhor.is-a.dev',
+  site: 'https://hienglyhor.github.io',
   base: '/portfolio',
 });
