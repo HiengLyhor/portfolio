@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://lyhor.is-a.dev',
-  base: '/',
+  base: '/portfolio',
 });
